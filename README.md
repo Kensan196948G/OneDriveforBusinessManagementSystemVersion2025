@@ -1,2 +1,2 @@
 OneDriveforBusinessManagementSystemVersion2025
-ITSM準拠IT運用システム2025Version
+OneDriveforBusiness用ITSM準拠IT運用システム2025Version
